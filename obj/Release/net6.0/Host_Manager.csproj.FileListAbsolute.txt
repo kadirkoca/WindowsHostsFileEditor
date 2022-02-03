@@ -1,0 +1,14 @@
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\Host_Manager.exe
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\Host_Manager.deps.json
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\Host_Manager.runtimeconfig.json
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\Host_Manager.dll
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\ref\Host_Manager.dll
+C:\Users\SDL\Desktop\Visual\Host_Manager\bin\Release\net6.0\Host_Manager.pdb
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.AssemblyInfoInputs.cache
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.AssemblyInfo.cs
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.csproj.CoreCompileInputs.cache
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.dll
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\ref\Host_Manager.dll
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.pdb
+C:\Users\SDL\Desktop\Visual\Host_Manager\obj\Release\net6.0\Host_Manager.genruntimeconfig.cache
